@@ -1,0 +1,34 @@
+.canvas {
+  border: 1px black solid;
+}
+
+form {
+  padding-right: 100px;
+  margin: 5%;
+}
+
+#container {
+  margin: 1%;
+}
+
+#canvasDiv {
+  padding-left: 400px;
+}
+
+#resetBtnDiv {
+  padding-top: 500px;
+}
+
+#resetBtn {
+  width: 100%;
+  border: none;
+  background-color: red;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 10px;
+}
